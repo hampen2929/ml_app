@@ -13,3 +13,6 @@ http://localhost:8080/
 docker-compose up -d --build
 ```
 http://172.30.35.203:8501
+
+# reference
+https://testdriven.io/blog/fastapi-streamlit/
